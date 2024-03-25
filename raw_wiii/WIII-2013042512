@@ -1,0 +1,135 @@
+2013-04-25 12
+<HTML>
+<TITLE>University of Wyoming - Radiosonde Data</TITLE>
+<BODY BGCOLOR="white">
+<H2>96749 WIII Jakarta Observations at 00Z 25 Apr 2013</H2>
+<PRE>
+-----------------------------------------------------------------------------
+   PRES   HGHT   TEMP   DWPT   RELH   MIXR   DRCT   SKNT   THTA   THTE   THTV
+    hPa     m      C      C      %    g/kg    deg   knot     K      K      K 
+-----------------------------------------------------------------------------
+ 1010.0      8   24.8   24.1     96  19.14    170      3  297.1  352.7  300.5
+ 1001.0     89   26.8   21.8     74  16.73    157      4  299.9  349.0  302.9
+ 1000.0     98   26.8   21.8     74  16.75    155      4  299.9  349.2  302.9
+  977.0    303   25.8   20.2     71  15.55    125      8  301.0  346.9  303.8
+  925.0    786   23.6   16.6     65  13.01    125      8  303.4  342.3  305.8
+  913.0    899   22.8   16.3     67  12.96    120      8  303.7  342.5  306.1
+  850.0   1520   18.4   14.9     80  12.69    105      6  305.4  343.6  307.7
+  795.0   2085   15.4   11.5     78  10.82    105      6  308.1  341.1  310.1
+  715.0   2982   10.6    6.1     74   8.31     25      6  312.2  338.3  313.8
+  700.0   3161    9.6    5.0     73   7.87     30      6  313.1  337.9  314.6
+  618.0   4181    3.5   -0.1     77   6.20     85     10  317.4  337.5  318.6
+  575.0   4771    0.0   -3.0     80   5.36     80     11  319.9  337.5  321.0
+  522.0   5542   -4.7  -10.7     63   3.26     73     13  323.2  334.3  323.9
+  500.0   5880   -6.7  -13.7     57   2.67     70     14  324.8  334.1  325.3
+  498.0   5911   -6.9   -9.9     79   3.64     71     14  324.9  337.3  325.6
+  494.0   5974   -7.3  -10.8     76   3.42     72     14  325.2  336.9  325.9
+  484.0   6134   -7.1  -16.1     49   2.26     76     15  327.4  335.3  327.8
+  480.0   6199   -7.5  -12.2     69   3.14     78     16  327.6  338.5  328.2
+  478.0   6231   -7.3  -18.3     41   1.90     78     16  328.3  335.1  328.6
+  474.0   6296   -7.6  -18.8     40   1.84     80     16  328.6  335.2  329.0
+  455.0   6614   -9.3  -21.3     37   1.54     93     16  330.4  336.0  330.7
+  444.0   6803  -10.3  -24.3     31   1.21    101     16  331.5  336.0  331.7
+  439.0   6890  -10.8  -23.4     34   1.32    105     16  332.0  336.9  332.2
+  429.0   7067  -11.7  -21.7     43   1.58     99     16  333.0  338.8  333.3
+  417.0   7284  -12.9  -20.9     51   1.74     91     16  334.1  340.5  334.5
+  400.0   7600  -14.7  -27.7     32   0.99     80     16  335.8  339.6  336.0
+  395.0   7695  -15.1  -33.1     20   0.60     79     16  336.5  338.8  336.6
+  375.0   8083  -17.8  -32.6     26   0.66     75     17  337.9  340.5  338.1
+  352.0   8555  -21.1  -32.1     37   0.74     78     18  339.7  342.6  339.8
+  300.0   9710  -30.9  -47.9     17   0.17     85     21  341.7  342.4  341.7
+  292.0   9899  -32.4  -48.1     19   0.17     80     21  342.2  343.0  342.3
+  281.0  10168  -34.5  -48.5     23   0.17     80     20  343.0  343.7  343.0
+  254.0  10862  -40.1  -51.1     30   0.14     80     17  344.7  345.3  344.8
+  250.0  10970  -40.9                          80     16  345.1         345.1
+  246.0  11077  -41.8                          80     16  345.3         345.3
+  205.0  12286  -52.5                         110     17  347.1         347.1
+  200.0  12450  -53.9                         105     19  347.2         347.2
+  186.0  12902  -57.5                         110     19  348.6         348.6
+  150.0  14240  -68.3                         155     21  352.2         352.2
+  146.0  14395  -69.4                         160     21  353.0         353.0
+  132.0  14971  -73.7                         150     16  355.8         355.8
+  125.0  15283  -75.9                         165      8  357.2         357.2
+  119.0  15565  -78.0                         205      4  358.5         358.5
+  113.0  15861  -80.2                         320      6  359.8         359.8
+  101.0  16503  -84.9                         300     14  362.5         362.5
+  100.0  16560  -85.3                         305     14  362.7         362.7
+   96.0  16784  -85.7                         315     14  366.2         366.2
+   93.9  16905  -85.9                         295     14  368.1         368.1
+   91.9  17024  -82.7                         275     14  376.7         376.7
+   86.0  17395  -82.1                         215     14  385.1         385.1
+   76.4  18056  -81.1                         143     16  400.4         400.4
+   73.0  18313  -79.8                         115     17  408.3         408.3
+   70.0  18550  -78.7                          60     21  415.7         415.7
+   69.0  18634  -78.3                          45     21  418.3         418.3
+   63.0  19163  -75.7                          90     29  434.9         434.9
+   56.0  19848  -72.4                          90     35  457.3         457.3
+   53.4  20125  -71.1                          87     35  466.7         466.7
+   51.0  20401  -67.3                          85     35  481.7         481.7
+   50.0  20520  -65.7                          80     33  488.2         488.2
+   47.3  20861  -60.9                          57     20  507.5         507.5
+   46.0  21034  -61.0                          45     14  511.5         511.5
+   44.0  21310  -61.0                         205      4  517.8         517.8
+   42.1  21584  -61.1                                     524.2         524.2
+</PRE><H3>Station information and sounding indices</H3><PRE>
+                         Station identifier: WIII
+                             Station number: 96749
+                           Observation time: 130425/0000
+                           Station latitude: -6.11
+                          Station longitude: 106.65
+                          Station elevation: 8.0
+                            Showalter index: -1.27
+                               Lifted index: -2.73
+    LIFT computed using virtual temperature: -3.24
+                                SWEAT index: 204.81
+                                    K index: 35.40
+                         Cross totals index: 21.60
+                      Vertical totals index: 25.10
+                        Totals totals index: 46.70
+      Convective Available Potential Energy: 314.74
+             CAPE using virtual temperature: 418.56
+                      Convective Inhibition: -111.45
+             CINS using virtual temperature: -80.87
+                           Equilibrum Level: 218.16
+ Equilibrum Level using virtual temperature: 218.33
+                   Level of Free Convection: 716.72
+             LFCT using virtual temperature: 760.36
+                     Bulk Richardson Number: 91.86
+          Bulk Richardson Number using CAPV: 122.16
+  Temp [K] of the Lifted Condensation Level: 292.66
+Pres [hPa] of the Lifted Condensation Level: 911.15
+   Equivalent potential temp [K] of the LCL: 347.45
+     Mean mixed layer potential temperature: 300.56
+              Mean mixed layer mixing ratio: 15.98
+              1000 hPa to 500 hPa thickness: 5782.00
+Precipitable water [mm] for entire sounding: 52.58
+</PRE>
+<P>Description of the 
+<A HREF="/upperair/columns.html">data columns</A>
+or <A HREF="/upperair/indices.html">sounding indices</A>.
+
+<P>
+<FORM>
+<INPUT CLASS="button" TYPE="button" VALUE=" Close this window " 
+ onClick="window.close();">
+<INPUT CLASS="button" TYPE="button" VALUE=" Select another map " 
+ onClick="window.blur();">
+</FORM>
+<HR SIZE="1">
+<I>Interested in graduate studies in atmospheric science?
+Check out our program at the
+<a href="http://www.uwyo.edu/atsc/howtoapply/"
+target=_top>University of Wyoming
+</a></I>
+<HR SIZE="1"><FONT SIZE="-1">
+Questions about the weather data provided by this site can be
+addressed to <A HREF="mailto:ldoolman@uwyo.edu">
+Larry Oolman (ldoolman@uwyo.edu)</A></FONT>
+<HR SIZE="1">
+<SCRIPT TYPE="text/javascript">
+<!--
+window.focus();
+// -->
+</SCRIPT>
+</BODY>
+</HTML>

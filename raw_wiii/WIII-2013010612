@@ -1,0 +1,118 @@
+2013-01-06 12
+<HTML>
+<TITLE>University of Wyoming - Radiosonde Data</TITLE>
+<BODY BGCOLOR="white">
+<H2>96749 WIII Jakarta Observations at 00Z 06 Jan 2013</H2>
+<PRE>
+-----------------------------------------------------------------------------
+   PRES   HGHT   TEMP   DWPT   RELH   MIXR   DRCT   SKNT   THTA   THTE   THTV
+    hPa     m      C      C      %    g/kg    deg   knot     K      K      K 
+-----------------------------------------------------------------------------
+ 1008.0      8   23.8   22.8     94  17.69    240      8  296.3  347.4  299.4
+ 1000.0     76   24.0   21.9     88  16.85    245     12  297.1  346.1  300.1
+  975.0    298   23.9   20.6     82  15.92    260     21  299.2  345.8  302.0
+  966.0    380   23.8   20.1     80  15.59    263     21  299.9  345.7  302.7
+  925.0    758   21.2   18.6     85  14.80    275     19  301.0  344.7  303.6
+  910.0    899   20.3   17.9     86  14.44    275     21  301.5  344.2  304.1
+  871.0   1278   18.0   16.2     89  13.48    281     24  302.9  343.0  305.3
+  850.0   1487   17.6   15.2     86  12.94    285     25  304.6  343.4  306.9
+  820.0   1790   15.9   13.7     87  12.19    285     27  305.9  342.7  308.1
+  792.0   2083   14.2   12.3     88  11.49    280     31  307.2  342.1  309.3
+  700.0   3125    8.4    7.3     93   9.25    270     27  311.8  340.5  313.5
+  686.0   3291    7.6    6.5     93   8.92    270     25  312.6  340.5  314.3
+  648.0   3761    5.2    4.2     93   8.04    283     22  315.1  340.6  316.6
+  615.0   4184    3.0    1.9     93   7.22    295     19  317.3  340.4  318.7
+  573.0   4758    0.0   -1.1     92   6.20    299     18  320.3  340.5  321.5
+  509.0   5698   -4.8   -6.0     91   4.84    305     17  325.5  341.8  326.4
+  500.0   5840   -5.5   -6.7     91   4.66    295     17  326.3  342.0  327.2
+  454.0   6588   -9.5  -10.9     89   3.69    255     23  330.4  343.2  331.1
+  404.0   7493  -14.3  -16.0     87   2.74    235     25  335.4  345.2  335.9
+  400.0   7570  -14.7  -16.4     87   2.67    240     23  335.8  345.4  336.3
+  375.0   8057  -17.5  -19.3     86   2.23    240     21  338.3  346.5  338.8
+  344.0   8688  -22.1  -24.0     84   1.61    240     19  340.6  346.6  340.9
+  330.0   8992  -24.3  -26.3     83   1.36    230     17  341.6  346.8  341.9
+  300.0   9690  -29.3  -31.5     81   0.92    245     17  344.0  347.6  344.2
+  291.0   9902  -31.1  -33.5     79   0.78    245     16  344.4  347.6  344.6
+  250.0  10960  -39.9  -43.3     70   0.33    260     10  346.6  348.0  346.7
+  245.0  11094  -41.1                         270      8  346.8         346.8
+  224.0  11688  -46.6                          25      2  347.4         347.4
+  214.0  11991  -49.4                         330      4  347.6         347.6
+  200.0  12440  -53.5                         355      4  347.9         347.9
+  186.0  12889  -57.5                          20      2  348.6         348.6
+  161.0  13782  -65.6                         345      6  349.8         349.8
+  153.0  14097  -68.4                          15      6  350.1         350.1
+  150.0  14220  -69.5                          45      6  350.2         350.2
+  146.0  14375  -70.7                          85      8  350.9         350.9
+  138.0  14699  -73.1                         105     23  352.3         352.3
+  112.0  15898  -82.1                          70     58  357.1         357.1
+  104.0  16323  -85.3                          65     68  358.6         358.6
+  101.0  16485  -84.3                          65     66  363.7         363.7
+  100.0  16540  -83.9                          65     62  365.4         365.4
+   97.1  16705  -80.3                          67     50  375.5         375.5
+   91.0  17066  -81.9                          70     23  379.3         379.3
+   81.0  17715  -84.9                         140     16  386.1         386.1
+   79.6  17812  -85.3                         147     16  387.1         387.1
+   77.0  17996  -84.0                         160     17  393.4         393.4
+   74.7  18163  -82.9                                     399.2         399.2
+</PRE><H3>Station information and sounding indices</H3><PRE>
+                         Station identifier: WIII
+                             Station number: 96749
+                           Observation time: 130106/0000
+                           Station latitude: -6.11
+                          Station longitude: 106.65
+                          Station elevation: 8.0
+                            Showalter index: 0.02
+                               Lifted index: -0.92
+    LIFT computed using virtual temperature: -1.05
+                                SWEAT index: 249.40
+                                    K index: 37.20
+                         Cross totals index: 20.70
+                      Vertical totals index: 23.10
+                        Totals totals index: 43.80
+      Convective Available Potential Energy: 146.59
+             CAPE using virtual temperature: 177.43
+                      Convective Inhibition: -51.38
+             CINS using virtual temperature: -39.77
+                           Equilibrum Level: 421.96
+ Equilibrum Level using virtual temperature: 420.61
+                   Level of Free Convection: 771.43
+             LFCT using virtual temperature: 789.59
+                     Bulk Richardson Number: 13.68
+          Bulk Richardson Number using CAPV: 16.56
+  Temp [K] of the Lifted Condensation Level: 293.37
+Pres [hPa] of the Lifted Condensation Level: 939.61
+   Equivalent potential temp [K] of the LCL: 345.82
+     Mean mixed layer potential temperature: 298.66
+              Mean mixed layer mixing ratio: 16.18
+              1000 hPa to 500 hPa thickness: 5764.00
+Precipitable water [mm] for entire sounding: 60.83
+</PRE>
+<P>Description of the 
+<A HREF="/upperair/columns.html">data columns</A>
+or <A HREF="/upperair/indices.html">sounding indices</A>.
+
+<P>
+<FORM>
+<INPUT CLASS="button" TYPE="button" VALUE=" Close this window " 
+ onClick="window.close();">
+<INPUT CLASS="button" TYPE="button" VALUE=" Select another map " 
+ onClick="window.blur();">
+</FORM>
+<HR SIZE="1">
+<I>Interested in graduate studies in atmospheric science?
+Check out our program at the
+<a href="http://www.uwyo.edu/atsc/howtoapply/"
+target=_top>University of Wyoming
+</a></I>
+<HR SIZE="1"><FONT SIZE="-1">
+Questions about the weather data provided by this site can be
+addressed to <A HREF="mailto:ldoolman@uwyo.edu">
+Larry Oolman (ldoolman@uwyo.edu)</A></FONT>
+<HR SIZE="1">
+<SCRIPT TYPE="text/javascript">
+<!--
+window.focus();
+// -->
+</SCRIPT>
+</BODY>
+</HTML>

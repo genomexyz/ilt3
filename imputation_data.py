@@ -74,6 +74,9 @@ mask_train = mask_mat[idx_train]
 dset_test = dset_raw[idx_test]
 mask_test = mask_mat[idx_test]
 
+print(mask_test)
+exit()
+
 dset_train_torch = torch.from_numpy(dset_train)
 mask_train_torch = torch.from_numpy(mask_train)
 
@@ -111,6 +114,7 @@ print(mean_torch)
 # Initialize the models
 input_size = dset_norm_norm_real.size()[1] * 2
 output_size = dset_norm_norm_real.size()[1]
+
 generator = Generator(input_size, hidden_size, output_size).double()
 discriminator = Discriminator(input_size, hidden_size, output_size).double()
 
